@@ -49,14 +49,6 @@ python main.py
 
 ---
 
-## 💡 Future Improvements (Ideas)
-- Count and display the number of attempts
-- Add a difficulty system (Easy/Medium/Hard)
-- Let the player play again after winning
-- Build a web version using Flask or a GUI version using Tkinter
-
----
-
 ## 🧑‍💻 Example Output
 ```vbnet
 Welcome to the Number Guessing Game!
@@ -72,6 +64,14 @@ Too low! Try again.
 Which number am I thinking of? 37
 🎉 You are correct! The number is 37.
 ```
+
+---
+
+## 💡 Future Improvements (Ideas)
+- [ ] Count and display the number of attempts
+- [ ] Add a difficulty system (Easy/Medium/Hard)
+- [ ] Let the player play again after winning
+- [ ] Build a web version using Flask or a GUI version using Tkinter
 
 ---
 
